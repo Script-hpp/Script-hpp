@@ -1,17 +1,6 @@
 # Hi 👋, I'm Onuralp Akca
 
 ### Tech enthusiast, builder, and creative problem solver. I design and develop impactful projects that blend innovation with functionality.
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Script-hpp&label=Profile views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Script-hpp" alt="GitHub Trophies" />
-  </a> 
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -87,10 +76,3 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/ifttt" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ifttt" alt="ifttt" width="40" height="40"/> </a> 
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Script-hpp&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Script-hpp&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
