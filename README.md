@@ -8,7 +8,6 @@
 - 💼 I'm currently working at the Institut für Medizininformatik (**[@imi-frankfurt](https://github.com/imi-frankfurt)**)
 - 🏎️ I'm also active at **[Formula Student Scuderia Mensa](https://scuderia-mensa.de/)**
 - 🌱 I'm currently learning **FastAPI and Vue.js**
-- 💬 Ask me about **Python and C#**
 - 📫 How to reach me: **[onuralpakca36@gmail.com](mailto:onuralpakca36@gmail.com)**
 - 👨‍💻 Check out my portfolio and projects at **[akca.dev](https://www.akca.dev/)**
 
