@@ -35,7 +35,7 @@
 
 <p align="left">
   <a href="https://github.com/Script-hpp/hks-rover">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Script-hpp&repo=hks-rover&show_icons=true" alt="HKS Rover Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Script-hpp&repo=hks-rover&show_icons=true&theme=react" alt="HKS Rover Project" />
   </a>
 </p>
 
